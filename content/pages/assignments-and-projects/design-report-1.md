@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Projects
+parent_type: CourseSection
 parent_uid: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
 title: Design Report 1 sample
 uid: 89ac3698-3773-3e4c-c28a-471034f6579e

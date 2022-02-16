@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Listening
 uid: 74745b64-4020-efa5-127c-d97d24b9218b
 ---
