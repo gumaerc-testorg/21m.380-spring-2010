@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Project Sample: Video Soundtrack Generation with PD '
 parent_type: CourseSection
+parent_uid: fd7d0052-b2bd-a822-1685-719b3f1f304b
 resourcetype: Other
 title: assn_ss_a_files.zip
 uid: 31d5efed-e8c7-d8e5-b636-628cc9d61bc1

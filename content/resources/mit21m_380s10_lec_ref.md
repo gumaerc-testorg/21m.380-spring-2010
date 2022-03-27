@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75bd5fca-0656-2556-0642-292e727db7e8
 resourcetype: Document
 title: MIT21M_380S10_lec_ref.pdf
 uid: 5b647dd5-9901-1daa-3c1b-c62e0c65f928

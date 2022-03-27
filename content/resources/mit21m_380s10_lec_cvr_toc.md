@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75bd5fca-0656-2556-0642-292e727db7e8
 resourcetype: Document
 title: MIT21M_380S10_lec_cvr_toc.pdf
 uid: 4ecb7f79-8a87-ba9e-0fbe-95f3b63697e1

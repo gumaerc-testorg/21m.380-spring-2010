@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
+parent_uid: 74745b64-4020-efa5-127c-d97d24b9218b
 resourcetype: Document
 title: MIT21M_380S10_read_btmimos.pdf
 uid: 2de9e6cf-7101-0ccf-2996-63076761a7fb

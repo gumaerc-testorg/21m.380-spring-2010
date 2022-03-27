@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Project Sample: Generative Context-free Grammars'
 parent_type: CourseSection
+parent_uid: e0285a65-8bce-669a-777e-a93b6267e32d
 resourcetype: Document
 title: MIT21M_380S10_assn_ss_c.pdf
 uid: 2fe63384-2fb0-fb4c-2ee9-572110d30fd1

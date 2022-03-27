@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: "Project Sample: Game of Life \u2013 With Music!"
 parent_type: CourseSection
+parent_uid: 6a377018-7047-3fe4-dc22-9f5085ddbe47
 resourcetype: Image
 title: gameoflife.jpg
 uid: bbd6bf57-ef5b-c761-3af1-75b45590c400

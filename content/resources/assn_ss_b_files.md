@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Project Sample: Genetic Algorithms'
 parent_type: CourseSection
+parent_uid: f33c204f-01fa-d563-f886-7902bb7d9baa
 resourcetype: Other
 title: assn_ss_b_files.zip
 uid: f929be89-9a79-c63f-15c9-2d0fb49fa46d
