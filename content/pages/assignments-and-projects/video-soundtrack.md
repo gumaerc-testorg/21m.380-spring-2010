@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments and Projects
@@ -37,4 +38,4 @@ Project Sample: Video soundtrack generation with PD 3.
 
 Source video: 1951 US Civil Defense film [Survival Under Atomic Attack](http://www.archive.org/details/Survival1951)
 
-Code and input audio samples ([ZIP]({{< baseurl >}}/resources/assn_ss_a_files)) (This ZIP file contains 1 .pd and 3 .wav files)
+Code and input audio samples ({{% resource_link 31d5efed-e8c7-d8e5-b636-628cc9d61bc1 "ZIP" %}}) (This ZIP file contains 1 .pd and 3 .wav files)

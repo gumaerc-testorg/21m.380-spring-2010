@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the musical design reports and sonic system project
+  required for the course, and includes sample student work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Projects
@@ -21,11 +23,11 @@ For each report, a group of students will be selected to present and discuss the
 
 ### Sample Student Work
 
-[Design Report 1 sample: AthenaCL generation and manipulation]({{< baseurl >}}/pages/assignments-and-projects/design-report-1)
+{{% resource_link 89ac3698-3773-3e4c-c28a-471034f6579e "Design Report 1 sample: AthenaCL generation and manipulation" %}}
 
-[Design Report 2 sample: Ethiopian _krar_\-inspired, Markov chain generated]({{< baseurl >}}/pages/assignments-and-projects/design-report-2)
+{{% resource_link a952b77a-d664-2d41-9db3-6f413aaa2dfa "Design Report 2 sample: Ethiopian _krar_\-inspired, Markov chain generated" %}}
 
-[Design Report 3 sample: Cat sounds source, PD generated]({{< baseurl >}}/pages/assignments-and-projects/design-report-3)
+{{% resource_link 6989e57d-2a83-ca14-8d25-9e22f19e5141 "Design Report 3 sample: Cat sounds source, PD generated" %}}
 
 Sonic System Project and Presentation
 -------------------------------------
@@ -45,10 +47,10 @@ Two weeks prior to the project's final due date, students must bring to class an
 
 ### Sample Student Work
 
-[Generative Context-free Grammars]({{< baseurl >}}/pages/assignments-and-projects/generative-context)
+{{% resource_link e0285a65-8bce-669a-777e-a93b6267e32d "Generative Context-free Grammars" %}}
 
-[Genetic Algorithms]({{< baseurl >}}/pages/assignments-and-projects/genetic-algorithms)
+{{% resource_link f33c204f-01fa-d563-f886-7902bb7d9baa "Genetic Algorithms" %}}
 
-[Video Soundtrack Generation with PD]({{< baseurl >}}/pages/assignments-and-projects/video-soundtrack)
+{{% resource_link fd7d0052-b2bd-a822-1685-719b3f1f304b "Video Soundtrack Generation with PD" %}}
 
-[Game of Life: With Music!]({{< baseurl >}}/pages/assignments-and-projects/project-sample-game-of-life-2013-with-music)
+{{% resource_link 6a377018-7047-3fe4-dc22-9f5085ddbe47 "Game of Life: With Music!" %}}

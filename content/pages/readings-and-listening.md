@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the readings and listening assignments for each
+  class session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -83,7 +85,7 @@ Foundations: Historical and categorical perspectives
 
 Ames, C. "Automated Composition in Retrospect: 1956-1986." _Leonardo_ 20, no. 2 (1987): 169-185.
 
-Ariza, C. "Navigating the Landscape of Computer-Aided Algorithmic Composition Systems: A Definition, Seven Descriptors, and a Lexicon of Systems and Research." In _Proceedings of the International Computer Music Conference_, San Francisco, CA: International Computer Music Association, _2005_. 765-772. ([PDF]({{< baseurl >}}/resources/mit21m_380s10_read_nlcaacs))
+Ariza, C. "Navigating the Landscape of Computer-Aided Algorithmic Composition Systems: A Definition, Seven Descriptors, and a Lexicon of Systems and Research." In _Proceedings of the International Computer Music Conference_, San Francisco, CA: International Computer Music Association, _2005_. 765-772. ({{% resource_link 0d5e3b2b-1270-74e9-c5bb-7fea1a783e31 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -146,9 +148,9 @@ History: Michele Gottfried Koenig
 {{< tdopen >}}
 
 
-Koenig, G. M. "The Use of Computer Programs in Creating Music." In _Music and Technology (Proceedings of the Stockholm Meeting organized by UNESCO_), 1971, pp. 93-115. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.scribd.com/document/248803479/The-Use-of-Computer-Programmes-in-Creating-Music-Koenig))
+Koenig, G. M. "The Use of Computer Programs in Creating Music." In _Music and Technology (Proceedings of the Stockholm Meeting organized by UNESCO_), 1971, pp. 93-115. ([PDF](https://www.scribd.com/document/248803479/The-Use-of-Computer-Programmes-in-Creating-Music-Koenig))
 
-———. "Aesthetic Integration of Computer-Composed Scores." _Computer Music Journal_ , no. 4 (1983): 27-32. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.jstor.org/stable/3679530?seq=2#metadata_info_tab_contents))
+———. "Aesthetic Integration of Computer-Composed Scores." _Computer Music Journal_ , no. 4 (1983): 27-32. ([PDF](https://www.jstor.org/stable/3679530?seq=2#metadata_info_tab_contents))
 
 
 {{< tdclose >}}
@@ -221,7 +223,7 @@ Approaches: Probability and Markov chains
 
 Ames, C. "The Markov Process as a Compositional Model: A Survey and Tutorial." _Leonardo_ 22, no. 2 (1989): 175-187
 
-Ariza, C. "Beyond the Transition Matrix: A Language-Independent, String-Based Input Notation for Incomplete, Multiple-Order, Static Markov Transition Values." 2006. ([PDF]({{< baseurl >}}/resources/mit21m_380s10_read_btmimos))
+Ariza, C. "Beyond the Transition Matrix: A Language-Independent, String-Based Input Notation for Incomplete, Multiple-Order, Static Markov Transition Values." 2006. ({{% resource_link 2de9e6cf-7101-0ccf-2996-63076761a7fb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -345,7 +347,7 @@ Approaches: Mapping, sonification, and data bending
 
 Marino, G., M. Serra, and J. Raczinski. "The UPIC System: Origins and Innovations." _Perspectives of New Music_ 31, no. 1 (1993): 258-269.
 
-Ben-Tal, O., and J. Berger. "Creative Aspects of Sonification." _Leonardo Music Journal_ 37, no. 3 (2004): 229-232. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://eprints.kingston.ac.uk/6479/1/Ben-Tal-O-6479.pdf))
+Ben-Tal, O., and J. Berger. "Creative Aspects of Sonification." _Leonardo Music Journal_ 37, no. 3 (2004): 229-232. ([PDF](http://eprints.kingston.ac.uk/6479/1/Ben-Tal-O-6479.pdf))
 
 
 {{< tdclose >}}
@@ -402,7 +404,7 @@ Approaches: Genetic algorithms
 
 Biles, J. A. "[GenJam in Perspective: A Tentative Taxonomy for GA Music and Art Systems](http://www.mitpressjournals.org/doi/abs/10.1162/002409403321152293)." _Leonardo_ 36, no. 1 (2003): 43-45.
 
-Magnus, C. "Evolving Electroacoustic Music: The Application of Genetic Algorithms to Timedomain Waveforms." In _Proceedings of the International Computer Music Conference_, 2004. San Francisco, CA: International Computer Music Association. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://quod.lib.umich.edu/cgi/p/pod/dod-idx?c=icmc;idno=bbp2372.2004.035))
+Magnus, C. "Evolving Electroacoustic Music: The Application of Genetic Algorithms to Timedomain Waveforms." In _Proceedings of the International Computer Music Conference_, 2004. San Francisco, CA: International Computer Music Association. ([PDF](http://quod.lib.umich.edu/cgi/p/pod/dod-idx?c=icmc;idno=bbp2372.2004.035))
 
 
 {{< tdclose >}}
@@ -434,7 +436,7 @@ Mason, G., and M. Saffle. "L-Systems, Melodies and Musical Structure." _Leonardo
 History: Mechanical musical automata
 {{< tdclose >}}
 {{< tdopen >}}
-Riskin, J. "The Defecating Duck, or, the Ambiguous Origins of Artificial Life." _Critical Inquiry_ 29, no. 4 (2003): 599-633. (Reprinted in Bill Brown, ed., _Things_. Chicago, IL University of Chicago Press, 2004.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF- 4.1MB](http://www.stanford.edu/dept/HPST/DefecatingDuck.pdf))
+Riskin, J. "The Defecating Duck, or, the Ambiguous Origins of Artificial Life." _Critical Inquiry_ 29, no. 4 (2003): 599-633. (Reprinted in Bill Brown, ed., _Things_. Chicago, IL University of Chicago Press, 2004.) ([PDF- 4.1MB](http://www.stanford.edu/dept/HPST/DefecatingDuck.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -528,7 +530,7 @@ Ariza, C. "The Interrogator as Critic: The Turing Test and the Evaluation of Gen
 
 ### Optional
 
-Soldier, D. "Eine Kleine Naughtmusik: How Nefarious Nonartists Cleverly Imitate Music." _Leonardo Music Journal_ 12 (2002): 53-58. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.6MB](http://www.mulatta.org/articles/Soldier_Leonardo.pdf))
+Soldier, D. "Eine Kleine Naughtmusik: How Nefarious Nonartists Cleverly Imitate Music." _Leonardo Music Journal_ 12 (2002): 53-58. ([PDF - 4.6MB](http://www.mulatta.org/articles/Soldier_Leonardo.pdf))
 
 
 {{< tdclose >}}

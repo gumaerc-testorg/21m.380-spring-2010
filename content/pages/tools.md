@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This tools section provides links with brief descriptions to free software
+  tools used in the class.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

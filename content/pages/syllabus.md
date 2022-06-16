@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, required texts, required digital materials,
+  reference materials, assignments, attendance and participation, quizzes and exams,
+  grading, policies for academic integrity, intellectual property, and plagiarism,
+  and the schedule of lecture topics, quizzes, and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,7 +40,7 @@ Objectives
 Required Texts
 --------------
 
-Readings for this class are comprised of various papers, articles, and book chapters. See the [Readings and Listening]({{< baseurl >}}/pages/readings-and-listening) page for a detailed list.
+Readings for this class are comprised of various papers, articles, and book chapters. See the {{% resource_link 74745b64-4020-efa5-127c-d97d24b9218b "Readings and Listening" %}} page for a detailed list.
 
 Required Digital Materials
 --------------------------
@@ -53,7 +58,7 @@ This course will use several free, cross-platform, stand-alone, or web-based app
 *   PureData
 *   SuperCollider
 
-Assignments, projects, and demonstrations may be facilitated by the use and installation of these software [tools]({{< baseurl >}}/pages/assignments-and-projects).
+Assignments, projects, and demonstrations may be facilitated by the use and installation of these software {{% resource_link 6e81c0bd-4e52-5a46-1f05-35f350963ca7 "tools" %}}.
 
 Reference Materials
 -------------------
