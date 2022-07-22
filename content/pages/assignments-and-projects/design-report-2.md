@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Projects
+parent_type: CourseSection
 parent_uid: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
 title: Design Report 2 sample
 uid: a952b77a-d664-2d41-9db3-6f413aaa2dfa
@@ -25,4 +29,4 @@ After I completed the piece, I tried to compose everything in athenaCL. The expe
 
 Design Report 2 sample: Ethiopian krar-inspired, Markov chain generated
 
-Code files ([ZIP]({{< baseurl >}}/resources/assn2_a_files)) (This ZIP file contains: 2 .py and 4 .mid files.)
+Code files ({{% resource_link a191c88e-c8a7-d9ac-fa4a-a0ff6a0c5050 "ZIP" %}}) (This ZIP file contains: 2 .py and 4 .mid files.)

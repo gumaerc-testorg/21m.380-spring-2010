@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Projects
+parent_type: CourseSection
 parent_uid: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
 title: "Project Sample: Game of Life \u2013 With Music!"
 uid: 6a377018-7047-3fe4-dc22-9f5085ddbe47
@@ -15,6 +19,6 @@ This is a Java™ applet based on the cellular automaton [Game of Life](http://e
 
 [Load the applet](/ans7870/21m/21m.380/S10/projects/life/gameoflifewithsound.html)
 
-![Image of a grid with several small groups of black filled-in squares.](/courses/music-and-theater-arts/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/assignments-and-projects/project-sample-game-of-life-2013-with-music/gameoflife.jpg)
+{{< resource "bbd6bf57-ef5b-c761-3af1-75b45590c400" >}}
 
 Screenshot from Game of Life – With Music!
