@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: "Project Sample: Game of Life \u2013 With Music!"
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: gameoflife.jpg
 uid: bbd6bf57-ef5b-c761-3af1-75b45590c400
 ---
 Screenshot from Game of Life – With Music!
-

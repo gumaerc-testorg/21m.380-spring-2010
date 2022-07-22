@@ -5,6 +5,7 @@ description: This ZIP file contains code files (3 .py and 4 .yaml) and audio sam
 file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/7de6a29d925396d01871c50cb184b878_assn_ss_c_files.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Project Sample: Generative Context-free Grammars'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn_ss_c_files.zip
 uid: 7de6a29d-9253-96d0-1871-c50cb184b878
 ---
 This ZIP file contains code files (3 .py and 4 .yaml) and audio samples (2 .wav).
-

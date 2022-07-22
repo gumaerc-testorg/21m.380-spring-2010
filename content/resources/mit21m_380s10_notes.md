@@ -5,6 +5,7 @@ file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21M_380S10_notes.pdf
 uid: db9cf51a-20db-bc9a-15b6-dc737f681138
 ---
 This resource contains complete set of notes. 
-

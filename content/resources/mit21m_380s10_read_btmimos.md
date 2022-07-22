@@ -6,6 +6,7 @@ file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spr
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21M_380S10_read_btmimos.pdf
 uid: 2de9e6cf-7101-0ccf-2996-63076761a7fb
 ---
 This resource contains information related to beyond the transition matrix: a language-independent, string-based input.
-

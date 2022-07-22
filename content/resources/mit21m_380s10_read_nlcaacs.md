@@ -6,6 +6,7 @@ file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spr
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21M_380S10_read_nlcaacs.pdf
 uid: 0d5e3b2b-1270-74e9-c5bb-7fea1a783e31
 ---
 This resource contains information related to navigating the landscape of computer aided algorithmic.
-

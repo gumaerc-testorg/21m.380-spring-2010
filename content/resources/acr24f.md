@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Design Report 1 sample
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Acr24F.jpg
 uid: 0a61e8ba-c3b9-2011-9a28-0d3b5a4213aa
 ---
 Screenshot of a music software program, with multi-channel mixing, sampler, and reverb modules on screen.
-
