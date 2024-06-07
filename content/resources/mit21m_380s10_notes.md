@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains complete set of notes. '
 file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/db9cf51a20dbbc9a15b6dc737f681138_MIT21M_380S10_notes.pdf
+file_size: 12397697
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
