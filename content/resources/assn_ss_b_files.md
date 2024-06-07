@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This ZIP contains 2 .py files. '
 file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/f929be899a79c63f15c92d0fb49fa46d_assn_ss_b_files.zip
+file_size: 6157
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

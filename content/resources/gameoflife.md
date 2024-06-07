@@ -2,6 +2,7 @@
 content_type: resource
 description: "Screenshot from Game of Life \u2013 With Music!"
 file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/bbd6bf57ef5bc7613af175b45590c400_gameoflife.jpg
+file_size: 25519
 file_type: image/jpeg
 image_metadata:
   caption: ''

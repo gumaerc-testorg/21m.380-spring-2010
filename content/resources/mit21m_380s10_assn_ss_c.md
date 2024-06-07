@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to generative context-free
   grammars. '
 file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/2fe633842fb0fb4c2ee9572110d30fd1_MIT21M_380S10_assn_ss_c.pdf
+file_size: 112368
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
