@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This ZIP file contains 1 .pd and 3 .wav files. '
-file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/31d5efede8c7d8e5b636628cc9d61bc1_assn_ss_a_files.zip
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/31d5efede8c7d8e5b636628cc9d61bc1_assn_ss_a_files.zip
 file_size: 20649216
 file_type: application/zip
 learning_resource_types: []
