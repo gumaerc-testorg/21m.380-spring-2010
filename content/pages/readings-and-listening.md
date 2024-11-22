@@ -224,7 +224,7 @@ Workshop
 Approaches: Cellular automata
 {{< tdclose >}}{{< tdopen >}}
 
-Miranda, E. R. "[On the Music of Emergent Behavior: What Can Evolutionary Computation Bring to the Musician](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.9102)?" *Leonardo* 36, no. 1 (2003): 55-59.
+Miranda, E. R. "On the Music of Emergent Behavior: What Can Evolutionary Computation Bring to the Musician?" *Leonardo* 36, no. 1 (2003): 55-59.
 
 Ariza, C. "Automata Bending: Applications of Dynamic Mutation and Dynamic Rules in Modular One-Dimensional Cellular Automata." *Computer Music Journal* 31, no. 1 (2007): 29-49.
 
