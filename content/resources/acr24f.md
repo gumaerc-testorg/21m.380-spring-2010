@@ -2,7 +2,7 @@
 content_type: resource
 description: Screenshot of a music software program, with multi-channel mixing, sampler,
   and reverb modules on screen.
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/0a61e8bac3b920119a280d3b5a4213aa_Acr24F.jpg
+file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/0a61e8bac3b920119a280d3b5a4213aa_Acr24F.jpg
 file_size: 86313
 file_type: image/jpeg
 image_metadata:
