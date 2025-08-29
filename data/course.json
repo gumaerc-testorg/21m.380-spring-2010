@@ -53,7 +53,7 @@
     "website": "21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010"
   },
   "learning_resource_types": [
-    "Music",
+    "Music Audio",
     "Projects with Examples",
     "Lecture Notes",
     "Written Assignments with Examples",
@@ -61,5 +61,6 @@
   ],
   "site_uid": "3a51bc68-0d92-4bf5-8772-019e76c7e28e",
   "site_short_id": "21m.380-spring-2010",
+  "site_url_path": "courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010",
   "title": "Course Metadata"
 }
