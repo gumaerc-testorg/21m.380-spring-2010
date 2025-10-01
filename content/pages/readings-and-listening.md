@@ -65,7 +65,7 @@ Boulez, Pierre. *Structures, Book I* (1956-61). Alfons and Aloys Kontarsky, pian
 
 Reich, Steve. *Piano Phase* (1967). Performed by Double Edge. *Early Works*. Elektra/Nonesuch, 1992.
 
-- \[[Alternate version](http://www.archive.org/details/top.09) by Peter Aidu, via Internet Archive\]
+- \[{{% resource_link "fa2486bd-605c-41d0-90c9-58911cd89f41" "Alternate version" %}} by Peter Aidu, via Internet Archive\]
 
 Andriessen, Louis. *Hout* (1991). Bang on a Can All Stars. *Giganitic Dancing Human Machine*. Cantaloupe Music, 2001.
 
@@ -87,18 +87,18 @@ Workshop
 History: Michele Gottfried Koenig
 {{< tdclose >}}{{< tdopen >}}
 
-Koenig, G. M. "The Use of Computer Programs in Creating Music." In *Music and Technology (Proceedings of the Stockholm Meeting organized by UNESCO*), 1971, pp. 93-115. ([PDF](https://www.scribd.com/document/248803479/The-Use-of-Computer-Programmes-in-Creating-Music-Koenig))
+Koenig, G. M. "The Use of Computer Programs in Creating Music." In *Music and Technology (Proceedings of the Stockholm Meeting organized by UNESCO*), 1971, pp. 93-115. ({{% resource_link "eb53d34f-f670-4ea5-b9bd-fa2c56b6dfef" "PDF" %}})
 
-———. "Aesthetic Integration of Computer-Composed Scores." *Computer Music Journal* , no. 4 (1983): 27-32. ([PDF](https://www.jstor.org/stable/3679530?seq=2#metadata_info_tab_contents))
+———. "Aesthetic Integration of Computer-Composed Scores." *Computer Music Journal* , no. 4 (1983): 27-32. ({{% resource_link "2fed1994-648d-4a0e-99b1-ad108aed61f5" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
 Koenig, Gottfried Michael. *Terminus* *X* (1967) (Courtesy of Michael Gottfried Koenig. Used with permission.)
 
-- Internet Archive ([MP3 - 27MB](http://www.archive.org/download/MIT21M.380S10/MIT21M_380S10l7_koenig_terminusx.mp3))
-- iTunes U ([MP3 - 27MB](http://itunes.apple.com/us/podcast/terminus-x/id439700566?i=94265778))
+- Internet Archive ({{% resource_link "68018922-76a0-409e-96f4-0eb883d8c8c2" "MP3 - 27MB" %}})
+- iTunes U ({{% resource_link "75b0515b-591c-4d61-a5ce-3b2effaea10f" "MP3 - 27MB" %}})
 
-———. *Three Asko Pieces* (1982). Performed by Ensemble 13. [*Computer Music Currents 2*](http://www.wergo.de/shop/en_UK/Audio_CDs/1000083/1660296/show,93234.html). Wergo, 1989.
+———. *Three Asko Pieces* (1982). Performed by Ensemble 13. {{% resource_link "bba23afa-09be-4a1f-8d70-be7ec888c1d4" "*Computer Music Currents 2*" %}}. Wergo, 1989.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -108,7 +108,7 @@ Approaches: Permutations, generators, and chaos
 
 Ames, C. "A Catalog of Sequence Generators: Accounting for Proximity, Pattern, Exclusion, Balance and/or Randomness." *Leonardo Music* J\_ournal\_ 2, no. 1 (1991): 55-72.
 
-Voss and Clarke. "[’1/f Noise’ in Music: Music from 1/f Noise](http://dx.doi.org/10.1121/1.381721)." *J Acoust Soc Am* 63, no. 1 (January 1978): 258-263.
+Voss and Clarke. "{{% resource_link "7e4f1ac0-e3fd-434e-930e-bea33fc5321e" "’1/f Noise’ in Music: Music from 1/f Noise" %}}." *J Acoust Soc Am* 63, no. 1 (January 1978): 258-263.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -117,7 +117,7 @@ Voss and Clarke. "[’1/f Noise’ in Music: Music from 1/f Noise](http://dx.doi
 {{< tdclose >}}{{< tdopen >}}
 History: Lejaren Hiller
 {{< tdclose >}}{{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262193191) Hiller, L., and L. Isaacson. "Musical Composition with a High-Speed Digital Computer." *Journal of the Audio Engineering Society* 6\_,\_ no. 3 (1958): 154-160. Republished as Chapter 1 in [*Machine Models of Music*](https://mitpress.mit.edu/9780262193191). Edited by S. M. Schwanauer and D. A. Levitt. Cambridge, MA: MIT Press, 1993. ISBN: 9780262193191. \[Preview in [Google Books](http://books.google.com/books?id=CIFqbWcjfHEC&pg=PA9=onepage)\]
+{{% resource_link "a157ecce-4f50-475e-a81e-22d61afada1c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hiller, L., and L. Isaacson. "Musical Composition with a High-Speed Digital Computer." *Journal of the Audio Engineering Society* 6\_,\_ no. 3 (1958): 154-160. Republished as Chapter 1 in {{% resource_link "a157ecce-4f50-475e-a81e-22d61afada1c" "*Machine Models of Music*" %}}. Edited by S. M. Schwanauer and D. A. Levitt. Cambridge, MA: MIT Press, 1993. ISBN: 9780262193191. \[Preview in {{% resource_link "d6836c0b-4de1-4af4-9640-b11345cfd452" "Google Books" %}}\]
 {{< tdclose >}}{{< tdopen >}}
 
 Hiller, Lejaren, and Leonard Isaacson, *Quaret No. 4* (*Illiac Suite*) (1957). Released on these out-of-print LP recordings:
@@ -157,7 +157,7 @@ Xenakis, I. "Free Stochastic Music." In *Cybernetics, Art and Ideas*. Edited by 
 
 ### Optional
 
-Ariza, C. "[The Xenakis Sieve as Object: A New Model and a Complete Implementation](http://www.mitpressjournals.org/doi/abs/10.1162/0148926054094396)." *Computer Music Journal* 29, no. 2 (2005): 40-60.
+Ariza, C. "{{% resource_link "98d177f2-734a-4e20-953a-47f5137fe627" "The Xenakis Sieve as Object: A New Model and a Complete Implementation" %}}." *Computer Music Journal* 29, no. 2 (2005): 40-60.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -171,7 +171,7 @@ Xenakis, Iannis. *Achorripsis* (1956-1957), *Atrées* (1960), *ST/4* (1962), *ST
 Approaches: Non-standard synthesis
 {{< tdclose >}}{{< tdopen >}}
 
-Berg, P. "[Composing Sound Structures with Rules](http://www.informaworld.com/smpp/content~db=all?content=10.1080/07494460802664049)." *Contemporary Music Review* 28, no. 1 (2009): 75-87.
+Berg, P. "{{% resource_link "f7c43f48-2b12-443c-a027-fa3967c06fe7" "Composing Sound Structures with Rules" %}}." *Contemporary Music Review* 28, no. 1 (2009): 75-87.
 
 Hoffman, P. "A New GENDYN Program." *Computer Music Journal* 24, no. 2 (2000): 31-38.
 
@@ -195,8 +195,8 @@ Sturm, B. "Adaptive Concatenative Sound Synthesis and Its Application to Micromo
 
 Vaggione, Horacio. *24 Variations*, 2002 (Courtesy of Horacio Vaggione. Used with permission.)
 
-- Internet Archive ([MP3 - 23MB](http://www.archive.org/download/MIT21M.380S10/MIT21M_380S10l14_vaggione_24var.mp3))
-- iTunes U ([MP3 - 23MB](http://itunes.apple.com/us/podcast/24-variations/id439700566?i=94265786))
+- Internet Archive ({{% resource_link "107e9512-b404-4990-a3a6-a04dba875bcb" "MP3 - 23MB" %}})
+- iTunes U ({{% resource_link "ab2e58af-a6ed-4e17-9baa-6ec1900ce66e" "MP3 - 23MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -206,7 +206,7 @@ Approaches: Mapping, sonification, and data bending
 
 Marino, G., M. Serra, and J. Raczinski. "The UPIC System: Origins and Innovations." *Perspectives of New Music* 31, no. 1 (1993): 258-269.
 
-Ben-Tal, O., and J. Berger. "Creative Aspects of Sonification." *Leonardo Music Journal* 37, no. 3 (2004): 229-232. ([PDF](http://eprints.kingston.ac.uk/6479/1/Ben-Tal-O-6479.pdf))
+Ben-Tal, O., and J. Berger. "Creative Aspects of Sonification." *Leonardo Music Journal* 37, no. 3 (2004): 229-232. ({{% resource_link "ceff3c2c-a733-4512-9cde-145f472cc8be" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -236,9 +236,9 @@ Ariza, C. "Automata Bending: Applications of Dynamic Mutation and Dynamic Rules 
 Approaches: Genetic algorithms
 {{< tdclose >}}{{< tdopen >}}
 
-Biles, J. A. "[GenJam in Perspective: A Tentative Taxonomy for GA Music and Art Systems](http://www.mitpressjournals.org/doi/abs/10.1162/002409403321152293)." *Leonardo* 36, no. 1 (2003): 43-45.
+Biles, J. A. "{{% resource_link "168fb7a7-438b-4580-be0d-3325e73090ce" "GenJam in Perspective: A Tentative Taxonomy for GA Music and Art Systems" %}}." *Leonardo* 36, no. 1 (2003): 43-45.
 
-Magnus, C. "Evolving Electroacoustic Music: The Application of Genetic Algorithms to Timedomain Waveforms." In *Proceedings of the International Computer Music Conference*, 2004. San Francisco, CA: International Computer Music Association. ([PDF](http://quod.lib.umich.edu/cgi/p/pod/dod-idx?c=icmc;idno=bbp2372.2004.035))
+Magnus, C. "Evolving Electroacoustic Music: The Application of Genetic Algorithms to Timedomain Waveforms." In *Proceedings of the International Computer Music Conference*, 2004. San Francisco, CA: International Computer Music Association. ({{% resource_link "a8df11f2-f232-4982-b9f0-92c67c383bb1" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -255,7 +255,7 @@ Mason, G., and M. Saffle. "L-Systems, Melodies and Musical Structure." *Leonardo
 {{< tdclose >}}{{< tdopen >}}
 History: Mechanical musical automata
 {{< tdclose >}}{{< tdopen >}}
-Riskin, J. "The Defecating Duck, or, the Ambiguous Origins of Artificial Life." *Critical Inquiry* 29, no. 4 (2003): 599-633. (Reprinted in Bill Brown, ed., *Things*. Chicago, IL University of Chicago Press, 2004.) ([PDF- 4.1MB](http://www.stanford.edu/dept/HPST/DefecatingDuck.pdf))
+Riskin, J. "The Defecating Duck, or, the Ambiguous Origins of Artificial Life." *Critical Inquiry* 29, no. 4 (2003): 599-633. (Reprinted in Bill Brown, ed., *Things*. Chicago, IL University of Chicago Press, 2004.) ({{% resource_link "90b5790e-3d8d-47e1-b910-af21eaae0028" "PDF- 4.1MB" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -278,8 +278,8 @@ Rowe, Robert. "Shells." *Spasm: Works for Bass Clarinet*. Michael Lowenstern, ba
 
 Ariza, Christopher. *to leave the best untold* (2009).
 
-- Internet Archive ([MP3 - 28.4MB](http://www.archive.org/download/MIT21M.380S10/MIT21M_380S10l22_ariza_untold.mp3))
-- iTunes U ([MP3 - 28.4MB](http://itunes.apple.com/us/podcast/to-leave-the-best-untold/id439700566?i=94265771))
+- Internet Archive ({{% resource_link "92991ced-afcc-43c6-be2e-8985b60b49f5" "MP3 - 28.4MB" %}})
+- iTunes U ({{% resource_link "2a909078-95f7-4a33-8b80-935a8ae02d32" "MP3 - 28.4MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -296,13 +296,13 @@ Cope, D. "Computer Modeling of Musical Intelligence in EMI." *Computer Music Jou
 Cope, David. From *Classical Music Composed by Computer: Experiments in Musical Intelligence*. Mary Jane Cope, piano. Centaur Records, 1997. (Courtesy of David Cope. Used with permission)
 
 - *Three Inventions, after Bach: No. 2* (1997)
-    - Internet Archive ([MP3 - 3.5MB](http://www.archive.org/download/MIT21M.380S10/MIT21M_380S10l23_cope_invention2.mp3))
-    - iTunes U ([MP3 - 3.5MB](http://itunes.apple.com/us/podcast/inventions-3-for-piano-in/id439700566?i=94265783))
+    - Internet Archive ({{% resource_link "ef110e05-aea5-4191-a6e8-01bfdd2705a2" "MP3 - 3.5MB" %}})
+    - iTunes U ({{% resource_link "76eb8840-ab7f-4d47-b77f-1a3ef64e8175" "MP3 - 3.5MB" %}})
 - *Sonata*, *after Beethoven* (1997)
-    - Internet Archive ([MP3 - 4.5MB](http://www.archive.org/download/MIT21M.380S10/MIT21M_380S10l23_cope_sonata.mp3))
-    - iTunes U ([MP3 - 4.5MB](http://itunes.apple.com/us/podcast/sonata-after-beethoven/id439700566?i=94265781))
+    - Internet Archive ({{% resource_link "cbfa1c8a-c25e-43fe-9690-2d673dd1ffb6" "MP3 - 4.5MB" %}})
+    - iTunes U ({{% resource_link "05f9bbfd-235f-416d-b2af-68da9c8029e1" "MP3 - 4.5MB" %}})
 
-Audio podcast about David Cope's work. "[Musical DNA](http://www.radiolab.org/2007/sep/24/musical-dna/)." Radiolab, Episode 202 (September 2007). WNYC/NPR.
+Audio podcast about David Cope's work. "{{% resource_link "bb5415a0-7952-46fc-8027-ca65dbcf4954" "Musical DNA" %}}." Radiolab, Episode 202 (September 2007). WNYC/NPR.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -314,23 +314,23 @@ Ariza, C. "The Interrogator as Critic: The Turing Test and the Evaluation of Gen
 
 ### Optional
 
-Soldier, D. "Eine Kleine Naughtmusik: How Nefarious Nonartists Cleverly Imitate Music." *Leonardo Music Journal* 12 (2002): 53-58. ([PDF - 4.6MB](http://www.mulatta.org/articles/Soldier_Leonardo.pdf))
+Soldier, D. "Eine Kleine Naughtmusik: How Nefarious Nonartists Cleverly Imitate Music." *Leonardo Music Journal* 12 (2002): 53-58. ({{% resource_link "3b6b1a9e-6c30-4f95-89c9-cf6f5831dfe2" "PDF - 4.6MB" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
-Soldier, David and Richard Lair. "The Birth of Ganesha." [*Elephonic Rhapsodies*](http://davesoldier.com/thaiorch.html), 2004 (Courtesy of David Soldier. Used with permission)
+Soldier, David and Richard Lair. "The Birth of Ganesha." {{% resource_link "944dc69e-b2aa-444d-ba84-839434e75647" "*Elephonic Rhapsodies*" %}}, 2004 (Courtesy of David Soldier. Used with permission)
 
-- Internet Archive ([MP3 - 7.8MB](http://www.archive.org/download/MIT21M.380S10/MIT21M_380S10l24_solider_ganesha.mp3))
-- iTunes U ([MP3 - 7.8MB](http://itunes.apple.com/us/podcast/the-ganesha-symphony-birth/id439700566?i=94265777))
+- Internet Archive ({{% resource_link "356cf745-fb26-4f43-b794-9957aaf14d6b" "MP3 - 7.8MB" %}})
+- iTunes U ({{% resource_link "8fa3371f-3e15-404d-abd0-649b3fac371a" "MP3 - 7.8MB" %}})
 
-Soldier, David. From [*The People’s Choice Music*](http://davesoldier.com/experimental.html) (2002) (Courtesy of David Soldier. Used with permission)
+Soldier, David. From {{% resource_link "29d231f3-adee-4680-9ead-6f260db68515" "*The People’s Choice Music*" %}} (2002) (Courtesy of David Soldier. Used with permission)
 
 - "The Most Wanted Song"
-    - Internet Archive ([MP3 - 5.9MB](http://www.archive.org/download/MIT21M.380S10/MIT21M_380S10l24_soldier_wanted.mp3))
-    - iTunes U ([MP3 - 5.9MB](http://itunes.apple.com/us/podcast/the-most-wanted-song/id439700566?i=94265787))
+    - Internet Archive ({{% resource_link "d5314146-9b54-4d8c-a382-d19bd89d0de5" "MP3 - 5.9MB" %}})
+    - iTunes U ({{% resource_link "d865f710-0e74-4f5c-8224-bbad8c238152" "MP3 - 5.9MB" %}})
 - "The Most Unwanted Song"
-    - Internet Archive ([MP3 - 25.2MB](http://www.archive.org/download/MIT21M.380S10/MIT21M_380S10l24_soldier_unwanted.mp3))
-    - iTunes U ([MP3 - 25.2MB](http://itunes.apple.com/us/podcast/the-most-unwanted-song/id439700566?i=94265782))
+    - Internet Archive ({{% resource_link "6833f6c5-dbf0-4c65-a3d1-cf910a111c3d" "MP3 - 25.2MB" %}})
+    - iTunes U ({{% resource_link "0eb30a85-4ae5-4333-8b38-7a6198f3a030" "MP3 - 25.2MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
